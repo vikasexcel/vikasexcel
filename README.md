@@ -31,9 +31,16 @@ I don't ship demos or notebook prototypes. I design systems that handle real tra
 const vikas = {
     role: "AI Engineer & Automation Architect",
     experience: "8+ years",
-    focus: ["AI Agents", "RAG Systems", "LLM Orchestration", "Backend Architecture"],
-    currentlyBuilding: "Multi-agent systems that take real, measurable actions",
-    philosophy: "Ship working products, not demos"
+    focus: [
+        "AI Agents",
+        "RAG Systems",
+        "LLM Orchestration",
+        "Backend Architecture",
+        "Chatbots",
+        "Voice Agents",
+        "YouTube Automation",
+        "Content Generation Pipelines"
+    ]
 };
 ```
 
@@ -88,7 +95,7 @@ APIs, infra, and data layers built to support AI systems reliably at scale.
 
 <table width="100%" cellpadding="30" cellspacing="10">
 <tr>
-<td align="center" valign="top" width="25%">
+<td align="center" valign="top" width="20%">
 <h4>🧠&nbsp;AI&nbsp;/&nbsp;LLM</h4>
 
 <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white"/>
@@ -106,9 +113,37 @@ APIs, infra, and data layers built to support AI systems reliably at scale.
 <img src="https://img.shields.io/badge/CrewAI-FF6B35?style=flat-square"/>
 <br><br>
 <img src="https://img.shields.io/badge/AutoGen-0078D4?style=flat-square"/>
+<br><br>
+<img src="https://img.shields.io/badge/Chatbots-00A67E?style=flat-square"/>
+<br><br>
+<img src="https://img.shields.io/badge/Voice_Agents-6C5CE7?style=flat-square"/>
 
 </td>
-<td align="center" valign="top" width="25%">
+<td align="center" valign="top" width="20%">
+<h4>🎨&nbsp;Frontend</h4>
+
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
+<br><br>
+<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white"/>
+<br><br>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+<br><br>
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
+<br><br>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
+<br><br>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
+<br><br>
+<img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white"/>
+<br><br>
+<img src="https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=white"/>
+<br><br>
+<img src="https://img.shields.io/badge/Zustand-433E38?style=flat-square&logo=react&logoColor=white"/>
+<br><br>
+<img src="https://img.shields.io/badge/TanStack_Query-FF4154?style=flat-square&logo=reactquery&logoColor=white"/>
+
+</td>
+<td align="center" valign="top" width="20%">
 <h4>⚙️&nbsp;Backend</h4>
 
 <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
@@ -130,7 +165,7 @@ APIs, infra, and data layers built to support AI systems reliably at scale.
 <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white"/>
 
 </td>
-<td align="center" valign="top" width="25%">
+<td align="center" valign="top" width="20%">
 <h4>🔗&nbsp;Automation</h4>
 
 <img src="https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white"/>
@@ -142,9 +177,13 @@ APIs, infra, and data layers built to support AI systems reliably at scale.
 <img src="https://img.shields.io/badge/Flowise-FF6F00?style=flat-square"/>
 <br><br>
 <img src="https://img.shields.io/badge/LangFlow-1C3C3C?style=flat-square"/>
+<br><br>
+<img src="https://img.shields.io/badge/YouTube_Automation-FF0000?style=flat-square&logo=youtube&logoColor=white"/>
+<br><br>
+<img src="https://img.shields.io/badge/Content_Generation-FFB400?style=flat-square"/>
 
 </td>
-<td align="center" valign="top" width="25%">
+<td align="center" valign="top" width="20%">
 <h4>☁️&nbsp;DevOps</h4>
 
 <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
