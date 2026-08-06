@@ -16,7 +16,7 @@
 <br><br>
 
 <a href="mailto:vikas.excel2011@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>
-<a href="https://upwork.com/freelancers/your-profile"><img src="https://img.shields.io/badge/Upwork-14A800?style=flat-square&logo=upwork&logoColor=white"/></a>
+<a href="https://www.upwork.com/freelancers/aivikas"><img src="https://img.shields.io/badge/Upwork-14A800?style=flat-square&logo=upwork&logoColor=white"/></a>
 </div>
 
 <br>
@@ -164,23 +164,6 @@ APIs, infra, and data layers built to support AI systems reliably at scale.
 </p>
 
 <br>
-
-## 📈 GitHub Analytics
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="49%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" width="49%" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" width="49%" />
-
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&no-frame=true&row=1&column=6" width="100%" />
-
-</div>
-
-<br>
-
-<div align="center">
 
 ## 🤝 Let's Build Something
 
