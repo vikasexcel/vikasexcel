@@ -15,12 +15,8 @@
 
 <br><br>
 
-<a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>
-<a href="https://linkedin.com/in/your-profile"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:vikas.excel2011@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>
 <a href="https://upwork.com/freelancers/your-profile"><img src="https://img.shields.io/badge/Upwork-14A800?style=flat-square&logo=upwork&logoColor=white"/></a>
-<a href="https://your-portfolio.com"><img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white"/></a>
-<a href="https://x.com/your-handle"><img src="https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white"/></a>
-
 </div>
 
 <br>
@@ -90,47 +86,82 @@ APIs, infra, and data layers built to support AI systems reliably at scale.
 
 ## 🛠️ Tech Stack
 
-**AI / LLM Engineering**
+<table width="100%" cellpadding="30" cellspacing="10">
+<tr>
+<td align="center" valign="top" width="25%">
+<h4>🧠&nbsp;AI&nbsp;/&nbsp;LLM</h4>
 
-<img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white"/>
-<img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white"/>
-<img src="https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white"/>
-<img src="https://img.shields.io/badge/DeepSeek-536AF5?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white"/>
-<img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/CrewAI-FF6B35?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/AutoGen-0078D4?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white"/>
+<br><br>
+<img src="https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=anthropic&logoColor=white"/>
+<br><br>
+<img src="https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white"/>
+<br><br>
+<img src="https://img.shields.io/badge/DeepSeek-536AF5?style=flat-square"/>
+<br><br>
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white"/>
+<br><br>
+<img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square"/>
+<br><br>
+<img src="https://img.shields.io/badge/CrewAI-FF6B35?style=flat-square"/>
+<br><br>
+<img src="https://img.shields.io/badge/AutoGen-0078D4?style=flat-square"/>
 
-`RAG` · `Embeddings` · `Vector Search (Pinecone / Chroma / Weaviate)` · `Prompt Engineering` · `Fine-tuning` · `Tool/Function Calling`
+</td>
+<td align="center" valign="top" width="25%">
+<h4>⚙️&nbsp;Backend</h4>
 
-**Backend Engineering**
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
+<br><br>
+<img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white"/>
+<br><br>
+<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
+<br><br>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+<br><br>
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
+<br><br>
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
+<br><br>
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
+<br><br>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
+<br><br>
+<img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
-<img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white"/>
-<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
-<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-<img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white"/>
+</td>
+<td align="center" valign="top" width="25%">
+<h4>🔗&nbsp;Automation</h4>
 
-`REST APIs` · `Webhooks` · `Microservices` · `WebSockets`
+<img src="https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white"/>
+<br><br>
+<img src="https://img.shields.io/badge/Make.com-6D00CC?style=flat-square"/>
+<br><br>
+<img src="https://img.shields.io/badge/Zapier-FF4A00?style=flat-square&logo=zapier&logoColor=white"/>
+<br><br>
+<img src="https://img.shields.io/badge/Flowise-FF6F00?style=flat-square"/>
+<br><br>
+<img src="https://img.shields.io/badge/LangFlow-1C3C3C?style=flat-square"/>
 
-**Automation & Orchestration**
+</td>
+<td align="center" valign="top" width="25%">
+<h4>☁️&nbsp;DevOps</h4>
 
-<img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white"/>
-<img src="https://img.shields.io/badge/Make.com-6D00CC?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Zapier-FF4A00?style=for-the-badge&logo=zapier&logoColor=white"/>
-<img src="https://img.shields.io/badge/Flowise-FF6F00?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/LangFlow-1C3C3C?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
+<br><br>
+<img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white"/>
+<br><br>
+<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white"/>
+<br><br>
+<img src="https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white"/>
 
-**DevOps & Infrastructure**
+</td>
+</tr>
+</table>
 
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white"/>
-<img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white"/>
+<p align="center">
+<code>RAG</code> · <code>Embeddings</code> · <code>Vector Search (Pinecone / Chroma / Weaviate)</code> · <code>Prompt Engineering</code> · <code>Fine-tuning</code> · <code>Tool/Function Calling</code> · <code>REST APIs</code> · <code>Webhooks</code> · <code>Microservices</code> · <code>WebSockets</code>
+</p>
 
 <br>
 
@@ -149,14 +180,13 @@ APIs, infra, and data layers built to support AI systems reliably at scale.
 
 <br>
 
+<div align="center">
 
 ## 🤝 Let's Build Something
 
 I'm open to full-time roles and select engagements building AI agents, RAG systems, and automation products that ship.
 
-<a href="mailto:vikas.excel2011@gmail.com
-"><img src="https://img.shields.io/badge/Get%20In%20Touch-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-
+<a href="mailto:vikas.excel2011@gmail.com"><img src="https://img.shields.io/badge/Get%20In%20Touch-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 
 <br><br>
 
