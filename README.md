@@ -134,51 +134,6 @@ APIs, infra, and data layers built to support AI systems reliably at scale.
 
 <br>
 
-## 🚀 Featured Projects
-
-> Replace with your strongest 3–4 builds — recruiters and clients scan this section first.
-
-<table>
-<tr>
-<td width="50%">
-
-### [🤖 Project Name](#)
-Multi-agent research assistant that autonomously searches, summarizes, and cites sources across thousands of documents.
-
-`LangGraph` `FastAPI` `PostgreSQL` `Pinecone`
-
-</td>
-<td width="50%">
-
-### [💬 Project Name](#)
-Customer support AI with persistent memory, live tool-calling into internal systems, and human handoff logic.
-
-`Node.js` `OpenAI` `Redis` `Webhooks`
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-### [📊 Project Name](#)
-RAG-powered internal knowledge base cutting support ticket resolution time significantly.
-
-`Python` `LangChain` `Chroma` `Docker`
-
-</td>
-<td width="50%">
-
-### [⚙️ Project Name](#)
-End-to-end business process automation replacing manual workflows across sales and ops.
-
-`n8n` `Make.com` `REST APIs`
-
-</td>
-</tr>
-</table>
-
-<br>
-
 ## 📈 GitHub Analytics
 
 <div align="center">
@@ -194,14 +149,6 @@ End-to-end business process automation replacing manual workflows across sales a
 
 <br>
 
-## 💬 What Clients Say
-
-> *"Replace this with a real client quote — a short, specific line about outcome or reliability lands far better than a generic compliment."*
-> — **Client Name**, Role @ Company
-
-<br>
-
-<div align="center">
 
 ## 🤝 Let's Build Something
 
