@@ -16,7 +16,7 @@
 <br><br>
 
 <a href="mailto:vikas.excel2011@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>
-<a href="https://www.upwork.com/freelancers/aivikas"><img src="https://img.shields.io/badge/Upwork-14A800?style=flat-square&logo=upwork&logoColor=white"/></a>
+<a href="https://www.upwork.com/freelancers/~015c61c3465a0b4103"><img src="https://img.shields.io/badge/Upwork-14A800?style=flat-square&logo=upwork&logoColor=white"/></a>
 </div>
 
 <br>
